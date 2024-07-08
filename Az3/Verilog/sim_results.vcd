@@ -1,0 +1,92 @@
+$date
+	Tue Jul 09 00:44:26 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module serial_comparator_tb $end
+$var wire 1 ! A_lt_B $end
+$var wire 1 " A_gt_B $end
+$var wire 1 # A_eq_B $end
+$var reg 1 $ A $end
+$var reg 1 % B $end
+$var reg 1 & clk $end
+$var reg 1 ' reset $end
+$scope module dut $end
+$var wire 1 $ A $end
+$var wire 1 # A_eq_B $end
+$var wire 1 " A_gt_B $end
+$var wire 1 ! A_lt_B $end
+$var wire 1 % B $end
+$var wire 1 & clk $end
+$var wire 1 ' reset $end
+$var reg 1 ( A_eq_B_reg $end
+$var reg 1 ) A_gt_B_reg $end
+$var reg 1 * A_lt_B_reg $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+0*
+0)
+1(
+1'
+0&
+0%
+0$
+1#
+0"
+0!
+$end
+#5
+1&
+#10
+0&
+0'
+#15
+1&
+#20
+0&
+#25
+1&
+#30
+0#
+1"
+0&
+1$
+#35
+0(
+1)
+1&
+#40
+0&
+#45
+1&
+#50
+1!
+0"
+0&
+1%
+0$
+#55
+1*
+0)
+1&
+#60
+0&
+#65
+1&
+#70
+0&
+1$
+#75
+1&
+#80
+0&
