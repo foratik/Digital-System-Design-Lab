@@ -11,7 +11,7 @@ The Digital System Design Lab is a hands-on course focused on designing, simulat
 
 ## Instructors
 - Dr. Mohsen Ansari
-- Ms. MohammadReza Hosseini
+- Mr. MohammadReza Hosseini
 
 ## Team Members:
 - [Saeed Forati K.](https://github.com/foratik)
