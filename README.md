@@ -17,3 +17,17 @@ The Digital System Design Lab is a hands-on course focused on designing, simulat
 - [Saeed Forati K.](https://github.com/foratik)
 - [Amirhossein Souri](https://github.com/Amir14Souri)
 - [MohammadAmin Abbasfar](https://github.com/M-Amin-A)
+
+## Board And FPGA:
+### Altera DE2 Board
+
+<p align="center">  
+    <img height="auto" width="640px" src ="Altera DE2  - Cyclone II.png">
+</p> 
+
+### Pin Table
+
+You can download the high quality image from [here](https://github.com/foratik/Digital-System-Design-Lab/blob/main/Pin%20Table.png).
+<p align="center">  
+    <img src ="Pin Table - Low Quality.jpg">
+</p> 
