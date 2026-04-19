@@ -1,7 +1,7 @@
 # Digital-System-Design-Lab
 
 <p align="center">  
-    <img height="auto" width="640px" src ="https://s8.uupload.ir/files/cropped-embedded-systems-design_zsbl.jpg">
+    <img height="auto" width="640px" src ="dsd.jpg">
 </p> 
 
 
